@@ -18,9 +18,10 @@ Perfect for debugging and calibrating line-follower robots—no Serial Monitor r
 
 🖤 Dark Background Mode
 
-https://github.com/user-attachments/assets/033b44f9-9467-4290-81d1-f98c8d893d28
-
-https://github.com/user-attachments/assets/9c752386-f275-4adc-aa2e-5666250ba067
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/033b44f9-9467-4290-81d1-f98c8d893d28" width="500">
+  <img src="https://github.com/user-attachments/assets/9c752386-f275-4adc-aa2e-5666250ba067" width="500">
+</p>
 
 ⚡ Features
 
