@@ -14,13 +14,12 @@ Perfect for debugging and calibrating line-follower robots—no Serial Monitor r
 
 
 
-
-
 🖤 Dark Background Mode
+![Screenshot_2026-02-02-21-22-15-148_com brave browser](https://github.com/user-attachments/assets/35d8e3db-1a35-457c-a7c5-464bb982aebe)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/033b44f9-9467-4290-81d1-f98c8d893d28" width="500">
-  <img src="https://github.com/user-attachments/assets/9c752386-f275-4adc-aa2e-5666250ba067" width="500">
+  <img src="https://github.com/user-attachments/assets/35d8e3db-1a35-457c-a7c5-464bb982aebe" width="500">
 </p>
 
 ⚡ Features
