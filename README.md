@@ -46,6 +46,8 @@ IR2	D2 (GPIO 4)	Sensor 2
 IR3	D5 (GPIO 14)	Sensor 3 (Center)
 IR4	D6 (GPIO 12)	Sensor 4
 IR5	D7 (GPIO 13)	Sensor 5
+photo of connections: <img width="732" height="458" alt="image" src="https://github.com/user-attachments/assets/42fc0cdb-2266-4666-9ec5-3811b89d6d06" />
+
 
 ⚠️ Important: Pins D3 and D4 are avoided because they affect boot mode on ESP8266 boards.
 
