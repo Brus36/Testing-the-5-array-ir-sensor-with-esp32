@@ -17,9 +17,10 @@ Perfect for debugging and calibrating line-follower robots—no Serial Monitor r
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/527933af-b3a3-43d9-8178-4091b3ce8fe3" width="20%">
+  <img src="https://github.com/user-attachments/assets/9cc39672-fe94-486d-91a5-f3b355bb4f6a" width="20%">
   <img src="https://github.com/user-attachments/assets/a69cd89f-a334-4936-8a18-2f3f1eb3c94e" width="20%">
 </p>
+
 
 
 
