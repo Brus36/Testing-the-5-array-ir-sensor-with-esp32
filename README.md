@@ -8,9 +8,10 @@ Perfect for debugging and calibrating line-follower robots—no Serial Monitor r
 📸 Screenshots
 🤍 White Background Mode :
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa8f57cb-bd63-46d7-9c74-0c31ced28864" width="48%">
-  <img src="https://github.com/user-attachments/assets/2c64ed81-b24a-417e-bd57-b31976a7438e" width="48%">
+  <img src="https://github.com/user-attachments/assets/aa8f57cb-bd63-46d7-9c74-0c31ced28864" width="47%">
+  <img src="https://github.com/user-attachments/assets/2c64ed81-b24a-417e-bd57-b31976a7438e" width="47%">
 </p>
+
 
 
 
