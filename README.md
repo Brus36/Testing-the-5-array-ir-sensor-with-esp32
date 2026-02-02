@@ -6,11 +6,10 @@ This project transforms the ESP8266 into a standalone Wi-Fi hotspot and hosts a 
 Perfect for debugging and calibrating line-follower robots—no Serial Monitor required 😎⚡
 
 📸 Screenshots
-🤍 White Background Mode
+🤍 White Background Mode :
 
-https://github.com/user-attachments/assets/ffce7d74-0817-4ce7-8525-c6462f5b727b
+<img width="732" height="458" alt="image" src="https://github.com/user-attachments/assets/aa8f57cb-bd63-46d7-9c74-0c31ced28864" />
 
-https://github.com/user-attachments/assets/566f804e-e785-429a-b111-be75151e23e0
 
 🖤 Dark Background Mode
 
